@@ -1,0 +1,12 @@
+names:
+- box
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: boxgazebo
+  url: https://universe.roboflow.com/college-knui6/boxgazebo/dataset/1
+  version: 1
+  workspace: college-knui6
+test: ~/yolov8/test/images
+train: ~/yolov8/train/images
+val: ~/yolov8/valid/images
