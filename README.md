@@ -1,5 +1,5 @@
 # box_yolov8
-Yolo v8n (Nano) model for box detection.
+Yolo v8s (Small) model for box detection.
 
 ## Instructions for use
 * Clone the repository
